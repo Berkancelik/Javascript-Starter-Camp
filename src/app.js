@@ -25,6 +25,5 @@ let housingLoans = ["Konut kredisi","Emlak Konut Kredisi","Kamu Konut Kredisi","
 for(let i = 0;i<housingLoans.length;i++){
     console.log("<li>"+housingLoans[i]+"</li>")
 
-
 }
 console.log("</ul>")
