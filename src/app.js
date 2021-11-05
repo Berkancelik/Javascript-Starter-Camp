@@ -27,4 +27,3 @@ for(let i = 0;i<housingLoans.length;i++){
 
 }
 console.log("</ul>")
-asvd
